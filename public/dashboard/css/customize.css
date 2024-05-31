@@ -1,0 +1,95 @@
+.btna,.btnb{
+    padding: 10px;
+
+}
+.table-bordered tbody tr td:nth-child(5)
+{
+    white-space: pre;
+}
+.card-body>div
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+.card-body>div>span:first-child
+{
+    display: flex;
+    align-items: center;
+}
+#search
+{
+    height: 41.33px;
+    width: auto;
+}
+.box .ibox{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+}
+.box2 .ibox{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.ml-15{
+    margin-left: 15px;
+}
+.control-lable{
+    display: block
+}
+.mt-15{
+    margin-top: 15px;
+}
+.box2{
+    margin-top: 40px;
+}
+.panel-title{
+    font-size: 25px;
+    font-weight: 600;
+}
+#send{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
+.wrapper-content{
+    margin-top: 40px;
+}
+body{
+    overflow: scroll;
+}
+.scrollable_content{
+    max-width: 3000px;
+    overflow-x: scroll;
+}
+
+input[type="file"] {
+    display: block;
+  }
+  .imageThumb {
+    max-height: 75px;
+    border: 2px solid;
+    padding: 1px;
+    cursor: pointer;
+  }
+  .pip {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+  }
+  .remove {
+    display: block;
+    background: #444;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+  }
+  .remove:hover {
+    background: white;
+    color: black;
+  }
